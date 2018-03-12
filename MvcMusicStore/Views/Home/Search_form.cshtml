@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Search_form";
+}
+
+<h2>Search Album</h2>
+
+@using (Html.BeginForm("Search", "Home", FormMethod.Get))
+{
+    <input type="text" name="q" />
+    <input type="submit" value="Search" />
+}
