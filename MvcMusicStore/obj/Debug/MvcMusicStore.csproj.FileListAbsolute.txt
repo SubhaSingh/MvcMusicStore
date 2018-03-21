@@ -110,11 +110,14 @@ C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.Ow
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.ApplicationInsights.xml
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.AI.Web.xml
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.CopyComplete
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Subha\Documents\C# ASP.NET\MvcMusicStore\MvcMusicStore\bin\System.Diagnostics.DiagnosticSource.xml
