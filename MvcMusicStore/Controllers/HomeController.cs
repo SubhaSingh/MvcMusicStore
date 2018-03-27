@@ -37,11 +37,20 @@ namespace MvcMusicStore.Controllers
 
         public ActionResult Search(string q)
         {
-            var albums = db.Albums
-                                .Include("Artist")
-                                .Where(a => a.Title.Contains(q))
-                                .Take(10);
-            return View(albums);
+            var artists = GetArtists(q);
+            return Json(artists, JsonRequestBehavior.AllowGet);
+        }
+
+        public ActionResult QuickSearch(string term)
+        {
+            var artists = GetArtists(term).Select(a => new { value = a.Name });
+            return Json(artists, JsonRequestBehavior.AllowGet);
+        }
+        private List<Artist> GetArtists(string searchString)
+        {
+            return db.Artists
+            .Where(a => a.Name.Contains(searchString))
+            .ToList();
         }
 
         public ActionResult DailyDeal()
